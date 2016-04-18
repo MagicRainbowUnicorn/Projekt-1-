@@ -1,4 +1,6 @@
-﻿++Projektidee: HammerHead
+﻿=== Projektidee MagicRainbowUnicorn, 2016-04-18 ===
+
+++Projektidee++ : HammerHead
 
 In meinem Projekt möchte ich ein einfaches Jump'n'Run Spiel umsetzen. 
 Es soll einen Helden geben, der sich seitlich durch die Spielwelt bewegen kann und dabei Wellen von Gegnern bekämpfen muss.
@@ -48,15 +50,15 @@ Es soll einen Helden geben, der sich seitlich durch die Spielwelt bewegen kann u
 	- Er kann vom User nach rechts und links durch die Spielwelt bewegt werden
 
 - Kampf:
-	- Der Held schwingt seinen Hammer auf den Kopf des Gegners und besiegt ihn so 
+	- Der Held besiegt einen Gegner, in dem er seinen Hammer auf den Kopf des Gegners schwingt 
 	- schwerere Gegner müssen durch ein Sprung verbunden mit einem Schlag besiegt werden
 
 - Die Gegner:
-	- die Gegner sind Zombies, die zuerst langsam und dann immer schneller von links und rechts auf den Gegner zuströmen
-	- einige Gegner lassen, wenn sie besieht werden, bestimmte Power-Ups fallen
+	- die Gegner sind Zombies, die zuerst langsam und dann immer schneller von links und rechts auf den Helden zuströmen
+	- einige Gegner lassen, wenn sie besiegt werden, bestimmte Power-Ups fallen
 	
 - Power-ups:
-	- es gibt Lebenspunkte, die das Leben des Helden auffüllen
+	- es gibt Herzen, die das Leben des Helden auffüllen
 	- es gibt Schilde (vorübergehender Schutz des Helden vor Gegnern)
 	- es gibt einen "Boost" (der Held kann sich kurzfristig schneller bewegen und ist stärker
 
