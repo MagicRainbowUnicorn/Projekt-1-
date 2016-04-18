@@ -1,3 +1,72 @@
+﻿++Projektidee: HammerHead
+
+In meinem Projekt möchte ich ein einfaches Jump'n'Run Spiel umsetzen. 
+Es soll einen Helden geben, der sich seitlich durch die Spielwelt bewegen kann und dabei Wellen von Gegnern bekämpfen muss.
+
+++Interaktion++
+
+- Es gibt eine Log-In Maske
+	- Der Spieler muss einen Namen wählen und ein Passwort vergeben	(2 Felder)
+		- Die Eingabe muss bestätigt werden ("OK"- Button)
+		- Die Eingabe kann abgebrochen werden("Abrechen"-Button)
+		- Für bestehende Accounts gibt es einen "Log-In"- Button
+
+- Der Spielen kann seinen Charakter individuell darstellen
+	- Es soll ein Untermenü mit "Aussehen-verändern"-Button geben
+	- Es soll ein "Farben-ändern"-Button geben
+
+- Der Spieler kann seinen Helden durch die Spielwelt bewegen
+	- Der Held soll nach links navigiert werden können ("Links"-Button)
+	- Der Held soll nach rechts navigiert werden können ("Rechts"-Button)
+	- Der Held soll springen können ("Jump"-Button)
+	- Der Held soll seine Waffe einsetzen können ("Fight"-Button)
+
+- Das Spiel soll jederzeit beendet, bzw. zwischengespeichert werden können
+	- Es gibt einen "Spiel beenden"- Button
+	- Es gibt einen "Spiel speichern"-Button
+
+- Es gibt einen "Menü"- Button 
+	- Hier soll es ein "Lautstärke"- Button geben 
+	- es soll ein "Grafik-anpassen"- Button geben
+	- es soll weitere "Buttons" für speichern und beenden geben - s.o.
+
+
+++Darstellung++
+
+- Die Spielwelt:
+	- Die Spielwelt ist in 2D seitlich dargestellt
+	- Das Spiel startet bei Level 1 und endet bei Level 50
+	- Jedes Level ist ähnlich gestaltet, jeweils mit anderen Hintergründen
+	- Die Level werden nach rechts-gehend durchlaufen 
+	- Es kommen Wellen von Gegnern (Zombies) von vorne und hinten
+	- In jedem Level wird die Gegnerzahl erhöht / schwierieger
+	
+
+- Der Held:
+	- Der Held hat nur eine Waffe (einen überdimensionalen Hammer)
+	- Er hat eine einfarbige Kleidung an, die über den User angepasst werden kann 
+	- Er kann vom User nach rechts und links durch die Spielwelt bewegt werden
+
+- Kampf:
+	- Der Held schwingt seinen Hammer auf den Kopf des Gegners und besiegt ihn so 
+	- schwerere Gegner müssen durch ein Sprung verbunden mit einem Schlag besiegt werden
+
+- Die Gegner:
+	- die Gegner sind Zombies, die zuerst langsam und dann immer schneller von links und rechts auf den Gegner zuströmen
+	- einige Gegner lassen, wenn sie besieht werden, bestimmte Power-Ups fallen
+	
+- Power-ups:
+	- es gibt Lebenspunkte, die das Leben des Helden auffüllen
+	- es gibt Schilde (vorübergehender Schutz des Helden vor Gegnern)
+	- es gibt einen "Boost" (der Held kann sich kurzfristig schneller bewegen und ist stärker
+
+- Speicherpunkte:
+	- Die Speicherpunkte sind an bestimmten Stellen in jedem Level platziert
+	- wenn der Held stirbt, muss der User das Level nicht von vorne beginnen, sondern kann beim letzten Speicherpunkt einsteigen
+
+
+
+
 === Projektidee MagicRaindboUnicorn, 2016-04-14 ===
 
 Ich habe noch keine Idee.
