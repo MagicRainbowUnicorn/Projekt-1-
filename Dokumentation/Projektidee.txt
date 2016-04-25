@@ -60,7 +60,7 @@ Es soll einen Helden geben, der sich seitlich durch die Spielwelt bewegen kann u
 - Power-ups:
 	- es gibt Herzen, die das Leben des Helden auffüllen
 	- es gibt Schilde (vorübergehender Schutz des Helden vor Gegnern)
-	- es gibt einen "Boost" (der Held kann sich kurzfristig schneller bewegen und ist stärker
+	- es gibt einen "Boost" (der Held kann sich kurzfristig schneller bewegen und ist stärker)
 
 - Speicherpunkte:
 	- Die Speicherpunkte sind an bestimmten Stellen in jedem Level platziert
